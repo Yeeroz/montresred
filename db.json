@@ -1,1 +1,353 @@
-{"idResponse":"BHT_RED_META_CATEGORIES_API_4f6f4073-c64f-4103-872a-c4ebeb895c2c","items":{"filters":{"brand":[{"value":"Apple","itemsNumber":0,"checked":false},{"value":"Samsung","itemsNumber":0,"checked":false},{"value":"Huawei","itemsNumber":1,"checked":true}],"colorBox":[{"value":"Noir","itemsNumber":1,"checked":false},{"value":"Gris acier","itemsNumber":0,"checked":false},{"value":"Noir pur","itemsNumber":0,"checked":false},{"value":"Aluminium Gris sidéral","itemsNumber":0,"checked":false},{"value":"Aluminium Or","itemsNumber":0,"checked":false},{"value":"Noir carbone","itemsNumber":0,"checked":false},{"value":"Or impérial","itemsNumber":0,"checked":false},{"value":"Aluminium argent","itemsNumber":0,"checked":false},{"value":"Aluminium or","itemsNumber":0,"checked":false}],"colorStrap":[{"value":"Noir","itemsNumber":1,"checked":false},{"value":"Gris acier","itemsNumber":0,"checked":false},{"value":"Noir pur","itemsNumber":0,"checked":false},{"value":"Sport Noir","itemsNumber":0,"checked":false},{"value":"Sport Rose des sables","itemsNumber":0,"checked":false},{"value":"Noir carbone","itemsNumber":0,"checked":false},{"value":"Or impérial","itemsNumber":0,"checked":false},{"value":"Sport Blanc","itemsNumber":0,"checked":false}],"price":{"min":199,"max":199,"selectedMin":null,"selectedMax":null},"gps":{"itemsNumber":1,"checked":false},"_4G":{"itemsNumber":0,"checked":false}},"result":{"resultNumber":1,"groups":[{"label":"huawei-montre-watch-gt","promoSticker":null,"accessories":[{"code":"Montre-Huawei-Watch-GT-noir","sapCode":"616570","detailsUrl":"montres-connectees/details/huawei-montre-watch-gt/46","description":null,"stock":0,"brand":"Huawei","price":"199.99","discountedPrice":null,"refundOfferDiscount":"0.0","immediateDiscount":"0.0","pictureUrl":"https://s7.s-sfr.fr/mobile/uc/accessoire/jozl80pr/616570-1-montre-huawei-watch-gt-150x150.jpg?ts=1565272165777","colorBox":"Noir","colorBoxHex":"#000000","colorStrap":"Noir","colorStrapHex":"#000000","_4g":false,"gps":true,"size":46}]}]}}}
+{  
+   "items":[  
+      {  
+         "filters":[  
+            {  
+               "brands":{  
+                  "label":[  
+                     "Apple",
+                     "Samsung",
+                     "Huawei"
+                  ],
+                  "number":[  
+                     5,
+                     8,
+                     2
+                  ],
+                  "checked":[  
+                     false,
+                     true,
+                     false
+                  ],
+                  "disable":[  
+                     false,
+                     false,
+                     true
+                  ]
+               }
+            },
+            {  
+               "price":{  
+                  "label":"prix",
+                  "min":0,
+                  "max":1000,
+                  "selectedMin":350,
+                  "selectedMax":800
+               }
+            },
+            {  
+               "connectivity":{  
+                  "type":[  
+                     "GPS",
+                     "4G"
+                  ],
+                  "number":[  
+                     13,
+                     3
+                  ],
+                  "checked":[  
+                     true,
+                     false
+                  ]
+               }
+{
+  "items":  {
+    "filters": [
+      {
+        "brands": {
+          "label": [
+            "Apple",
+            "Samsung",
+            "Huawei"
+          ],
+          "number": [
+            5,
+            8,
+            2
+          ],
+          "checked": [
+            false,
+            true,
+            false
+          ],
+          "disable": [
+            false,
+            false,
+            true
+          ]
+        }
+      },
+      {
+        "price": {
+          "label": "prix",
+          "min": 0,
+          "max": 1000,
+          "selectedMin": 350,
+          "selectedMax": 800
+        }
+      },
+      {
+        "connectivity": {
+          "type": [
+            "GPS",
+            "4G"
+          ],
+          "number": [
+            13,
+            3
+          ],
+          "checked": [
+            true,
+            false
+          ]
+        }
+      },
+      {
+        "boxColor": {
+          "color": [
+            "black",
+            "yellow",
+            "black"
+          ],
+          "number": [
+            3,
+            5,
+            1
+          ],
+          "checked": [
+            false,
+            false,
+            true
+          ]
+        }
+      },
+      {
+        "strapColor": {
+          "color": [
+            "red",
+            "white",
+            "black"
+          ],
+          "number": [
+            2,
+            6,
+            6
+          ],
+          "checked": [
+            false,
+            false,
+            true
+          ]
+        }
+      },
+      {
+        "orderBy": {
+          "type": "desc"
+        }
+      }
+    ],
+    "results": {
+      "resultNumber": 11,
+      "groups": [
+        {
+          "label": "apple watch",
+          "order": 1,
+          "settings": [
+            {
+              "id": "apple-watch-product-name-xxx",
+              "sapCode": 616960,
+              "brand": "Apple",
+              "description": "Boîtier en aluminium or Bracelet Sport noir des sables",
+              "taille": "40",
+              "color": "Noir",
+              "corloBoxHexa": "#000000",
+              "picture": "https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-apple_watchseries4_YYY-YYYxYYY.jpg",
+              "price": "599.99",
+              "discountPrice": "499.99",
+              "promoWording": "10€ remboursés"
+            },
+            {  
+               "boxColor":{  
+                  "color":[  
+                     "black",
+                     "yellow",
+                     "black"
+                  ],
+                  "number":[  
+                     3,
+                     5,
+                     1
+                  ],
+                  "checked":[  
+                     false,
+                     false,
+                     true
+                  ]
+               }
+            {
+              "id": "apple-watch-product-name-yyy",
+              "description": "Boîtier en aluminium or Bracelet Sport noir des sables",
+              "sapCode": 616961,
+              "brand": "Apple",
+              "taille": "44",
+              "color": "Noir",
+              "corloBoxHexa": "#000000",
+              "picture": "https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-apple_watchseries4_YYY-YYYxYYY.jpg",
+              "price": 62000,
+              "discountPrice": 61000,
+              "promoWording": "1€ remboursés"
+            },
+            {  
+               "strapColor":{  
+                  "color":[  
+                     "red",
+                     "white",
+                     "black"
+                  ],
+                  "number":[  
+                     2,
+                     6,
+                     6
+                  ],
+                  "checked":[  
+                     false,
+                     false,
+                     true
+                  ]
+               }
+            {
+              "id": "apple-watch-product-name-zzz",
+              "description": "Boîtier en aluminium jaune Bracelet Sport jaune",
+              "taille": "44",
+              "color": "yellow",
+              "sapCode": 616961,
+              "brand": "Apple",
+              "corloBoxHexa": "#FFFF00",
+              "picture": "https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-apple_watchseries4_YYY-YYYxYYY.jpg",
+              "price": "590.0",
+              "discountPrice": null,
+              "promoWording": null
+            }
+          ]
+        },
+        {
+          "label": "samsung watch",
+          "order": 2,
+          "settings": [
+            {
+              "id": "samsung-watch-product-name-xxx",
+              "description": "Boîtier en plastic noir bracelet Sport noir",
+              "sapCode": 56254,
+              "brand": "Samsung",
+              "taille": "40",
+              "color": "Noir",
+              "corloBoxHexa": "#000000",
+              "picture": "https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-samsung_watchseries4_YYY-YYYxYYY.jpg",
+              "price": "599.99",
+              "discountPrice": "499.99",
+              "promoWording": "10€ remboursés"
+            },
+            {  
+               "orderBy":{  
+                  "type":"desc"
+               }
+            {
+              "id": "samsung-watch-product-name-yyy",
+              "description": "Boîtier en plastic blanc Bracelet Sport blanc",
+              "taille": "44",
+              "color": "blanc",
+              "corloBoxHexa": "#ffffff",
+              "picture": "https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-samsung_watchseries4_YYY-YYYxYYY.jpg",
+              "price": "620.0",
+              "discountPrice": "610.0",
+              "promoWording": "8€ remboursés"
+            }
+         ],
+         "results":{  
+            "resultNumber":11,
+            "groups":[  
+               {  
+                  "label":"apple watch",
+                  "order":1,
+                  "settings":[  
+                     {  
+                        "id":"apple-watch-product-name-xxx",
+                        "sapCode":616960,
+                        "brand":"Apple",
+                        "description":"Boîtier en aluminium or Bracelet Sport noir des sables",
+                        "taille":"40",
+                        "color":"Noir",
+                        "corloBoxHexa":"#000000",
+                        "picture":"https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-apple_watchseries4_YYY-YYYxYYY.jpg",
+                        "price":"599.99",
+                        "discountPrice":"499.99",
+                        "promoWording":"10€ remboursés"
+                     },
+                     {  
+                        "id":"apple-watch-product-name-yyy",
+                        "description":"Boîtier en aluminium or Bracelet Sport noir des sables",
+                        "sapCode":616961,
+                        "brand":"Apple",
+                        "taille":"44",
+                        "color":"Noir",
+                        "corloBoxHexa":"#000000",
+                        "picture":"https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-apple_watchseries4_YYY-YYYxYYY.jpg",
+                        "price":62000,
+                        "discountPrice":61000,
+                        "promoWording":"1€ remboursés"
+                     },
+                     {  
+                        "id":"apple-watch-product-name-zzz",
+                        "description":"Boîtier en aluminium jaune Bracelet Sport jaune",
+                        "taille":"44",
+                        "color":"yellow",
+                        "sapCode":616961,
+                        "brand":"Apple",
+                        "corloBoxHexa":"#FFFF00",
+                        "picture":"https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-apple_watchseries4_YYY-YYYxYYY.jpg",
+                        "price":"590.0",
+                        "discountPrice":null,
+                        "promoWording":null
+                     }
+                  ]
+               },
+               {  
+                  "label":"samsung watch",
+                  "order":2,
+                  "settings":[  
+                     {  
+                        "id":"samsung-watch-product-name-xxx",
+                        "description":"Boîtier en plastic noir bracelet Sport noir",
+                        "sapCode":56254,
+                        "brand":"Samsung",
+                        "taille":"40",
+                        "color":"Noir",
+                        "corloBoxHexa":"#000000",
+                        "picture":"https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-samsung_watchseries4_YYY-YYYxYYY.jpg",
+                        "price":"599.99",
+                        "discountPrice":"499.99",
+                        "promoWording":"10€ remboursés"
+                     },
+                     {  
+                        "id":"samsung-watch-product-name-yyy",
+                        "description":"Boîtier en plastic blanc Bracelet Sport blanc",
+                        "taille":"44",
+                        "color":"blanc",
+                        "corloBoxHexa":"#ffffff",
+                        "picture":"https://s7.s-sfr.fr/mobile/uc/accessoire/jxa7re6a/616960-1-samsung_watchseries4_YYY-YYYxYYY.jpg",
+                        "price":"620.0",
+                        "discountPrice":"610.0",
+                        "promoWording":"8€ remboursés"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ]
+          ]
+        }
+      ]
+    }
+  }
+}
