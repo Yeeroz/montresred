@@ -1,12 +1,116 @@
-{
-  "data": {
-    "type": "queue-jobs",
-    "id": "5234",
-    "attributes": {
-      "status": "Pending request, waiting other process"
-    },
-    "links": {
-      "self": "/photos/queue-jobs/5234"
-    }
-  }
+{ 
+   "idResponse":"BHT_RED_META_CATEGORIES_API_aecc49e0-9e24-485a-a1ca-64c3357264c5",
+   "items":{ 
+      "filters":{ 
+         "brand":[ 
+            { 
+               "value":"Apple",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Samsung",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Huawei",
+               "itemsNumber":1,
+               "checked":true
+            }
+         ],
+         "colorBox":[ 
+            { 
+               "value":"Noir",
+               "itemsNumber":1,
+               "checked":false
+            },
+            { 
+               "value":"Gris acier",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Noir pur",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Aluminium Gris sidéral",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Aluminium Or",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Noir carbone",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Or impérial",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Aluminium argent",
+               "itemsNumber":0,
+               "checked":false
+            },
+            { 
+               "value":"Aluminium or",
+               "itemsNumber":0,
+               "checked":false
+            }
+         ],
+         "price":{ 
+            "min":199,
+            "max":199,
+            "selectedMin":null,
+            "selectedMax":null
+         },
+         "gps":{ 
+            "itemsNumber":1,
+            "checked":false
+         },
+         "_4G":{ 
+            "itemsNumber":0,
+            "checked":false
+         }
+      },
+      "result":{ 
+         "resultNumber":1,
+         "groups":[ 
+            { 
+               "label":"huawei-montre-watch-gt",
+               "promoSticker":null,
+               "accessories":[ 
+                  { 
+                     "code":"Montre-Huawei-Watch-GT-noir",
+                     "sapCode":"616570",
+                     "detailsUrl":"montres-connectees/details/huawei-montre-watch-gt/46",
+                     "description":null,
+                     "stock":0,
+                     "brand":"Huawei",
+                     "price":"199.99",
+                     "discountedPrice":null,
+                     "refundOfferDiscount":"0.0",
+                     "immediateDiscount":"0.0",
+                     "pictureUrl":"https://s7.s-sfr.fr/mobile/uc/accessoire/jozl80pr/616570-1-montre-huawei-watch-gt-150x150.jpg?ts=1565272165777",
+                     "colorBox":"Noir",
+                     "colorBoxHex":"#000000",
+                     "colorStrap":"Noir",
+                     "colorStrapHex":"#000000",
+                     "_4g":false,
+                     "gps":true,
+                     "size":46
+                  }
+               ]
+            }
+         ]
+      }
+   }
 }
